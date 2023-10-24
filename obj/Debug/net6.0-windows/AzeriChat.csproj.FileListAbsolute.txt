@@ -1,0 +1,26 @@
+C:\Users\user\source\repos\AzeriChat\bin\Debug\net6.0-windows\AzeriChat.exe
+C:\Users\user\source\repos\AzeriChat\bin\Debug\net6.0-windows\AzeriChat.deps.json
+C:\Users\user\source\repos\AzeriChat\bin\Debug\net6.0-windows\AzeriChat.runtimeconfig.json
+C:\Users\user\source\repos\AzeriChat\bin\Debug\net6.0-windows\AzeriChat.dll
+C:\Users\user\source\repos\AzeriChat\bin\Debug\net6.0-windows\AzeriChat.pdb
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat_MarkupCompile.cache
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat_MarkupCompile.lref
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat.g.resources
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat.AssemblyInfo.cs
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat.dll
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\refint\AzeriChat.dll
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat.pdb
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat.genruntimeconfig.cache
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\ref\AzeriChat.dll
+C:\Users\user\source\repos\AzeriChat\bin\Debug\net6.0-windows\Image\icons8-back-48.png
+C:\Users\user\source\repos\AzeriChat\bin\Debug\net6.0-windows\Image\icons8-circle-64.png
+C:\Users\user\source\repos\AzeriChat\bin\Debug\net6.0-windows\Image\icons8-logo-50 (1).png
+C:\Users\user\source\repos\AzeriChat\bin\Debug\net6.0-windows\Image\icons8-send-64.png
+C:\Users\user\source\repos\AzeriChat\obj\Debug\net6.0-windows\AzeriChat_Content.g.cs
